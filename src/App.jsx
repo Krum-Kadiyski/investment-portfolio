@@ -1,11 +1,7 @@
+import { CssBaseline } from "@mui/material";
 
-const App = () => {
-
-  return (
-    <>
-      Hello
-    </>
-  )
-}
+const App = () => (
+  <CssBaseline />
+)
 
 export default App
