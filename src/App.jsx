@@ -1,7 +1,5 @@
-import { CssBaseline } from "@mui/material";
+import { CssBaseline } from '@mui/material';
 
-const App = () => (
-  <CssBaseline />
-)
+const App = () => <CssBaseline />;
 
-export default App
+export default App;
